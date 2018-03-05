@@ -1,0 +1,23 @@
+2018-02-08 18:11:58,373 INFO  [TestBed] log is initilized 
+2018-02-08 18:12:06,885 INFO  [ActionDriver] Finding is successful with element locator -> name=userName 
+2018-02-08 18:12:06,982 INFO  [ActionDriver] element is found and text is enter sucessfully 
+2018-02-08 18:12:07,310 INFO  [ActionDriver] Finding is successful with element locator -> name=password 
+2018-02-08 18:12:07,394 INFO  [ActionDriver] element is found and text is enter sucessfully 
+2018-02-08 18:12:07,556 INFO  [ActionDriver] Finding is successful with element locator -> xpath=//*[@name='login'] 
+2018-02-08 18:12:11,579 INFO  [ActionDriver] click is sucessful 
+2018-02-08 18:12:11,731 INFO  [ActionDriver] Finding is successful with element locator -> xpath=//*[contains(@src,'flightfinder')] 
+2018-02-08 18:12:11,947 INFO  [ActionDriver] Finding is successful with element locator -> xpath=(//*[@name='tripType'])[2] 
+2018-02-08 18:12:12,083 INFO  [ActionDriver] click is sucessful 
+2018-02-08 18:12:12,211 INFO  [ActionDriver] Finding is successful with element locator -> name=passCount 
+2018-02-08 18:12:12,592 INFO  [ActionDriver] Finding is successful with element locator -> name=fromPort 
+2018-02-08 18:12:12,968 INFO  [ActionDriver] Finding is successful with element locator -> name=fromMonth 
+2018-02-08 18:12:13,424 INFO  [ActionDriver] Finding is successful with element locator -> name=fromDay 
+2018-02-08 18:12:13,844 INFO  [ActionDriver] Finding is successful with element locator -> name=toPort 
+2018-02-08 18:12:14,190 INFO  [ActionDriver] Finding is successful with element locator -> name=toMonth 
+2018-02-08 18:12:14,326 INFO  [ActionDriver] Finding is successful with element locator -> name=toDay 
+2018-02-08 18:12:14,643 INFO  [ActionDriver] Finding is successful with element locator -> xpath=(//*[@name='servClass'])[2] 
+2018-02-08 18:12:14,790 INFO  [ActionDriver] click is sucessful 
+2018-02-08 18:12:14,881 INFO  [ActionDriver] Finding is successful with element locator -> name=airline 
+2018-02-08 18:12:56,230 INFO  [ActionDriver] Failed to find an element with element locator -> name=findFlights. 
+2018-02-08 18:12:56,230 INFO  [ActionDriver] failed to find an element to click with locator-->name with value -->findFlights. 
+2018-02-08 18:13:26,441 INFO  [ActionDriver] Failed to find an element with element locator -> xpath=//*[contains(@src,'selectflight').] 
